@@ -27,5 +27,16 @@ Duplicates, and Incorrect data type Format.
 - cleaned_dataset.xlxs – Cleaned output
 - data_cleaning.xlxs – Power Query
 
+## Data Changes
+- Original Dataset: 1,200 rows
+- Cleaned Dataset: 1,200 rows
+- Row Removed:No duplicate values found.
+- Standardized Format: I Capitalized and trimmed all the Categorical columns
+- Number Format: All columns were changed to its appropriate data type.
+
+l am still learning and growing every day, but seeing raw, chaotic data transform into clear, actionable insights. Data cleaning leads to better insights.
+
+Eager for the Project 2....
+
 ## Tools Used
 - Excel, Power query.
